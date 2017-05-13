@@ -12,6 +12,7 @@ permalink: /info/
   <p>
   <center>Fondazione
   <a href="http://www.luiginono.it/opere/prometeo-tragedia-dellascolto/#tab-id-1"><p><img src="{{ site.urlimg }}{{ post.image.fondazioneNono.png }}" /></p></a>
+  <img src="{{ site.urlimg }}{{ post.image.fondazioneNono.png }}" />
   </center>
   </p>
 </div>
@@ -31,6 +32,3 @@ permalink: /info/
   </center>
   </p>
 </div>
-
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
-<br>
