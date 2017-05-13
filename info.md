@@ -11,8 +11,7 @@ permalink: /info/
 <div class="intro"><br>
   <p>
   <center>Fondazione
-  <a href="http://www.luiginono.it/opere/prometeo-tragedia-dellascolto/#tab-id-1"><p><img src="{{ site.urlimg }}{{ post.image.fondazioneNono.png }}" /></p></a>
-  <img src="{{ site.urlimg }}{{ post.image.fondazioneNono.png }}" />
+  <a href="http://www.luiginono.it/opere/prometeo-tragedia-dellascolto/#tab-id-1" target="_blank"><p><img src="{{ site.urlimg }}{{ post.images.fondazioneNono.png }}" /></p></a>
   </center>
   </p>
 </div>
@@ -20,7 +19,7 @@ permalink: /info/
 <div class="intro"><br>
   <p>
   <center>Teatro
-  <a href="http://www.teatroregioparma.org/Pagine/default.aspx?IdPagina=645"><p><img src="{{ site.urlimg }}{{ post.image.teatro.png }}" /></p></a>
+  <a href="http://www.teatroregioparma.org/Pagine/default.aspx?IdPagina=645" target="_blank"><p><img src="{{ site.urlimg }}{{ post.images.teatro.png }}" /></p></a>
   </center>
   </p>
 </div>
