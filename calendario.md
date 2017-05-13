@@ -13,7 +13,7 @@ tagline: "che succede oggi?"
 <div class="intro"><br>
   <p>
   <center>GitHub Repository
-  <a href="http://github.com/hemangsk/Gravity"><p><i class="fa fa-github"></i></p></a>
+  <a href="https://github.com/dentroprometeo/dentroprometeo.github.io"><p><i class="fa fa-github"></i></p></a>
   </center>
   </p>
 </div>
