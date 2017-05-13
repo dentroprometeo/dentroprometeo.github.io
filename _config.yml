@@ -11,6 +11,15 @@ email:
 description: percorso della preparazione di “Prometo, tragedia dell'ascolto” - Teatro Regio di Parma
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dentroprometeo.github.io" # the base hostname & protocol for your site
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: 'https://dentroprometeo.github.io/images/'
+
 twitter_username:
 github_username:
 paginate: 5
