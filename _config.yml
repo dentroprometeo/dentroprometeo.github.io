@@ -8,7 +8,7 @@
 # Site settings
 title: dentro Prometeo
 email:
-description: percorso della preparazione di Prometo, tragedia dell'ascolto - Teatro Regio di Parma
+description: percorso della preparazione di “Prometo, tragedia dell'ascolto” - Teatro Regio di Parma
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dentroprometeo.github.io" # the base hostname & protocol for your site
 twitter_username:
