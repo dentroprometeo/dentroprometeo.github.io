@@ -6,7 +6,7 @@
 
 documentazione del percorso della preparazione di
 
-###Prometo, tragedia dell'ascolto
+### Prometo, tragedia dell'ascolto
 
 di Luigi Nono, presso il Teatro Regio di Parma
 
