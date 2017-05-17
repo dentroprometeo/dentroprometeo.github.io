@@ -2,8 +2,10 @@
 layout: post
 title:  "16 Maggio 2017"
 date:   2017-05-16 23:45:31 
-​
+categories: aggiornamenti
 ---
+
+​
  
 ![Sala](https://github.com/dentroprometeo/dentroprometeo.github.io/blob/master/images/Sala_PANORAMICA.jpg "Sala")
 ​
