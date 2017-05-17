@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Giorno I (16 Maggio 2017)"
+title:  "Giorno I"
 date:   2017-05-16 23:45:31 
 categories: aggiornamenti
 ---
