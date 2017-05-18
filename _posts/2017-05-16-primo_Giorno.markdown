@@ -7,7 +7,7 @@ categories: aggiornamenti
 
 ​
  
-![Sala](https://github.com/dentroprometeo/dentroprometeo.github.io/blob/master/images/Sala_PANORAMICA.jpg "Sala")
+![Sala](/images/Sala_PANORAMICA.jpg)
 ​
 ​
 ​
@@ -20,7 +20,7 @@ A fine montaggio la disposizione in sala è la seguente:
 ​
  
  
- ![Mappa Sala](https://github.com/dentroprometeo/dentroprometeo.github.io/blob/master/images/Scehma%20Sala.jpg "Mappa Sala")
+ ![Mappa Sala](/images/Scehma%20Sala.jpg)
 ​
 ​
 ​
@@ -32,7 +32,7 @@ A partire dalle  ore 19 si sono svolti dei test di continuità sul sistema per i
 ​
 
 
-![Live Electronics](https://github.com/dentroprometeo/dentroprometeo.github.io/blob/master/images/schema_Live_Electronics.jpg "Live Electronics")
+![Live Electronics](/images/schema_Live_Electronics.jpg)
 ​
 ​
 
