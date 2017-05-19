@@ -14,7 +14,7 @@ Giorno II
 
 In mattinata sono continuati i test di continuità sulla sezione Isola seconda, il listema è risultato funzionare regolarmente.
 
-Nel pomeriggio, a partire dalle 15, si sono svolte le prove delle voci soliste con la direzione del Maestro Caterina Centofante, secondo direttore impegnata nella direzione dei solisti. 
+Nel pomeriggio, a partire dalle 14, si sono svolte le prove delle voci soliste con la direzione del Maestro Caterina Centofante, secondo direttore impegnata nella direzione dei solisti. 
 
 Le prove si sono concentrate sulla finalizzazione delle parti vocali e sull'interazione con l'elettronica, fino a oggi infatti i cantanti avevano sempre provato senza trattamento. Al termine della prova sono state eseguitE tutte le sezioni dell'opera.
 
