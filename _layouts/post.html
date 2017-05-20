@@ -20,6 +20,10 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.comments == true %}
+  {% include comments %}
+  {% endif %}
+
   <footer class="postNavigation">
   {% if page.previous.url %}
     <a class="postPrev" href="{{page.previous.url}}">
