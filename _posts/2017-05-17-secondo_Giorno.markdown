@@ -5,8 +5,6 @@ date:   2017-05-17 23:45:31
 categories: aggiornamenti
 ---
 
-Giorno II
-
 
 ![Consolle](/images/Console.jpg)
 ​
