@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+author: federicopaganelli
 title:  "Giorno IV"
 date:   2017-05-19 23:45:31
 categories: aggiornamenti
@@ -10,7 +11,7 @@ categories: aggiornamenti
 ![Panoramica](/images/IVPANORAMICA.JPG)
 ​
 
-La mattina si sono effettuati test e prove sull’elettronica e  sono stati regolati i livelli in base alle prove del giorno precedente. 
+La mattina si sono effettuati test e prove sull’elettronica e  sono stati regolati i livelli in base alle prove del giorno precedente.
 La sala è stata predisposta alle rappresentazioni disponendo i posti a sedere nella loro posizione definitiva.
 
 

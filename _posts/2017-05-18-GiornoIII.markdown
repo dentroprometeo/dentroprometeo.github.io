@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+author: federicopaganelli
 title:  "Giorno III"
 date:   2017-05-18 23:45:31
 categories: aggiornamenti
@@ -12,7 +13,7 @@ categories: aggiornamenti
 
 Giorno III
 
-In mattinata si sono svolte le prove del coro con la direzione del Maestro Marco Angius,  direttore delle orchestre e del coro. 
+In mattinata si sono svolte le prove del coro con la direzione del Maestro Marco Angius,  direttore delle orchestre e del coro.
 
 ![Coro](/images/IIICoro.JPG)
 
@@ -24,7 +25,7 @@ Al termine della lettura del coro con elettronica, intorno alle 11, si è inizia
 
 
 
-L'ordine di prova è stato: 
+L'ordine di prova è stato:
 
 
 Violoncello e contrabbasso e viola
@@ -33,16 +34,16 @@ Violoncello e contrabbasso e viola
 ![Archi](/images/IIIArchi.JPG)
 
 
- 
- Eufonio, trombino e tuba 
+
+ Eufonio, trombino e tuba
 
  ![Ottoni](/images/IIITuba.JPG)
 
- Clarinetto, clarinetto piccolo e  clarinetto contrabbasso 
+ Clarinetto, clarinetto piccolo e  clarinetto contrabbasso
 ![Clarinetto](/images/IIIClarinetto.JPG)
 
- 
- Flauto 
+
+ Flauto
 ![Flauto](/images/IIIFlauto.JPG)
 
 Verso le 14 sono stati montati e provati i vetri, posizionati al livello più alto del teatro.
@@ -61,4 +62,3 @@ La sera le orchestre hanno effettuato una prima lettura dell’opera.
 ![Orchestra2](/images/IIIOrchestra.JPG)
 ![Orchestra3](/images/IIIORCHESTRA4.JPG)
 ![Orchestra4](/images/IIIOrchestra3.JPG)
-

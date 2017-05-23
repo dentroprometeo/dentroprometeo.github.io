@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+author: federicopaganelli
 title:  "Giorno II"
 date:   2017-05-17 23:45:31
 categories: aggiornamenti
