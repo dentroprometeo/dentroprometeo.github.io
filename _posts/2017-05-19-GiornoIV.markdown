@@ -4,7 +4,7 @@ comments: true
 author: federicopaganelli
 title:  "Giorno IV"
 date:   2017-05-19 23:45:31
-categories: aggiornamenti
+categories: diario
 ---
 
 
