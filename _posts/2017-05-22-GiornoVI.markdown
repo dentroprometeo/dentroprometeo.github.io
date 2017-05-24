@@ -7,11 +7,20 @@ date:   2017-05-22 23:45:31
 categories: diario
 ---
 
-Giunti a Parma abbiamo avuto un primo incontro con il collega Federico Paganelli che ci ha esplicato le modalit\'e0 con le quali si sarebbe svolte le prove nei giorni successivi.\
-In primo luogo, ogni prova viene registrata in parallelo su due Hd24 in cascata e su un computer Mac, il tutto posto nel retroscena destro.\
-Il lavoro fatto nei giorni precedenti dal collega Paganelli \'e8 stato di trascrivere, quindi, i take delle registrazioni delle orchestre, del coro e dei soli, cos\'ec da essere puntuali sulla scelta delle battute da rimandare in play per provare in seguito l\'92elettronica.\
-I maestri Vidolin, Bernardini e Richelli assegnati al live electronics ci informano che il loro lavoro \'e8 iniziato circa un anno prima. Il sistema di utilizzo \'e8 un mixer digitale per l\'92apertura e la chiusa dei canali di monitoraggio dei diffusori.\
-In primo luogo ci fanno notare come Nono era legato ad un suono acustico e l\'92utilizzo dell\'92elettronica, anche in questo caso \'e8 legata essenzialmente ai delay e alle code relative alle singole voci.\
-Ogni diffusore diffonde un\'92unica voce, e sar\'e0 difficile che da uno dei diffusori venga emesso uno strumento semplicemente amplificato; nel caso per\'f2 avvenga, a tale strumento sar\'e0 designato una coda di reverbero.\
-La poetica di Luigi Nono, in fondo, \'e8 delineata da tali fattori: i timbri degli strumenti sono delineati dal suono acustico e difficilmente \'e8 segnata nelle partiture di Nono un\'92amplificazione lineare dello strumento. In qualunque caso ogni strumento che viene diffuso da qualche monitor sar\'e0 modificato nei ritardi temporali o modificato nella timbrica da un Harmonizer. Il sottotitolo dell\'92opera \'e8 \'93Tragedia dell\'92Ascolto\'94 e a mio parere calza a pennello in un\'92opera che fa dell\'92ambiguit\'e0 temporale e della mimetica timbrica il punto cardine della rappresentazione.\
-I maestri Vidolin, Bernardini e Richelli nel giorno VI hanno provato alcune parti dell\'92elettronica riferite al prologo. Qui iniziamo a renderci conto di come agiscono i tre maestri assegnati all\'92elettronica: il M. Nicola Bernardini si occupa dei canali in ingresso che sono assegnati a delle mandate ausiliare. Il M. Alvise Vidolin gestisce i master di uscita dei diffusori, mentre il M. Luca Richelli si occupa degli effetti quali ritardi e reverberi. \
+Giunti a Parma abbiamo avuto un primo incontro con il collega Federico Paganelli che ci ha esplicato le modalità con le quali si sarebbe svolte le prove nei giorni successivi.
+
+In primo luogo, ogni prova viene registrata in parallelo su due Hd24 in cascata e su un computer Mac, il tutto posto nel retroscena destro.
+
+Il lavoro fatto nei giorni precedenti dal collega Paganelli è stato di trascrivere, quindi, i take delle registrazioni delle orchestre, del coro e dei soli, così da essere puntuali sulla scelta delle battute da rimandare in play per provare in seguito l’elettronica.
+
+I maestri Vidolin, Bernardini e Richelli assegnati al live electronics ci informano che il loro lavoro è iniziato circa un anno prima. Il sistema di utilizzo è un mixer digitale utilizzato per il missaggio in entrata e in uscita dei microfoni e di monitoraggio dei diffusori posti in specifici punti del teatro.
+
+In primo luogo ci fanno notare come Nono era legato al suono acustico degli strumenti, il suono diretto non passerà mai per i diffusori, se non per avere un determinato timbro dato dall'amplificazione stessa o unito ad una coda data dal reverbero assegnatoli. L’utilizzo dell’elettronica comprende i ritardi temporali e reverberi, in più molti strumenti hanno degli harmonizer accordati in molti casi un'ottava sotto.
+
+Ogni diffusore diffonde un’unica voce, e sarà difficile che da uno dei diffusori venga emesso uno strumento semplicemente amplificato; come scritto in precedenza, nel caso però avvenga, a tale strumento sarà designato una coda di reverbero.
+
+La poetica di Luigi Nono, in fondo, è delineata da tali fattori: i timbri degli strumenti sono delineati dal suono acustico e difficilmente è segnata nelle partiture di Nono un’amplificazione lineare dello strumento. In qualunque caso ogni strumento che viene diffuso da qualche monitor sarà modificato nei ritardi temporali o modificato nella timbrica da un Harmonizer. Il sottotitolo dell’opera è “Tragedia dell’Ascolto” e a mio parere calza a pennello in un’opera che fa dell’ambiguità temporale e della mimetica timbrica il punto cardine della rappresentazione.
+
+La disposizione del pubblico è da considerare un'altra parte essenziale
+
+I maestri Vidolin, Bernardini e Richelli nel giorno VI hanno provato alcune parti dell’elettronica riferite al prologo. Qui iniziamo a renderci conto di come agiscono i tre maestri assegnati all’elettronica: il M. Nicola Bernardini si occupa dei canali in ingresso che sono assegnati a delle mandate ausiliare. Il M. Alvise Vidolin gestisce i master di uscita dei diffusori, mentre il M. Luca Richelli si occupa degli effetti quali ritardi e reverberi. 
