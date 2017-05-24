@@ -4,7 +4,7 @@ comments: true
 author: federicopaganelli
 title:  "Giorno VI"
 date:   2017-05-22 13:45:31
-categories: aggiornamenti
+categories: diario
 ---
 
 Giunti a Parma abbiamo avuto un primo incontro con il collega Federico Paganelli che ci ha esplicato le modalità con le quali si sarebbe svolte le prove nei giorni successivi.
