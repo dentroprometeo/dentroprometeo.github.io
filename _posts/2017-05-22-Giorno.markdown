@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-author: federicopaganelli
+author: n3v3rmike
 title:  "Giorno VI"
 date:   2017-05-22 13:45:31
 categories: diario
