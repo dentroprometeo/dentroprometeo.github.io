@@ -4,7 +4,7 @@ comments: true
 author: federicopaganelli
 title:  "Giorno III"
 date:   2017-05-18 23:45:31
-categories: aggiornamenti
+categories: diario
 ---
 
 
