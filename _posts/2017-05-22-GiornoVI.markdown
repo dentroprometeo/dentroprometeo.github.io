@@ -3,7 +3,7 @@ layout: post
 comments: true
 author: n3v3rmike
 title:  "Giorno VI"
-date:   2017-05-22 23:45:31
+date:   2017-05-22 13:45:31
 categories: diario
 ---
 
@@ -23,4 +23,4 @@ La poetica di Luigi Nono, in fondo, è delineata da tali fattori: i timbri degli
 
 La disposizione del pubblico è da considerare un'altra parte essenziale
 
-I maestri Vidolin, Bernardini e Richelli nel giorno VI hanno provato alcune parti dell’elettronica riferite al prologo. Qui iniziamo a renderci conto di come agiscono i tre maestri assegnati all’elettronica: il M. Nicola Bernardini si occupa dei canali in ingresso che sono assegnati a delle mandate ausiliare. Il M. Alvise Vidolin gestisce i master di uscita dei diffusori, mentre il M. Luca Richelli si occupa degli effetti quali ritardi e reverberi. 
+I maestri Vidolin, Bernardini e Richelli nel giorno VI hanno provato alcune parti dell’elettronica riferite al prologo. Qui iniziamo a renderci conto di come agiscono i tre maestri assegnati all’elettronica: il M. Nicola Bernardini si occupa dei canali in ingresso che sono assegnati a delle mandate ausiliare. Il M. Alvise Vidolin gestisce i master di uscita dei diffusori, mentre il M. Luca Richelli si occupa degli effetti quali ritardi e reverberi.
