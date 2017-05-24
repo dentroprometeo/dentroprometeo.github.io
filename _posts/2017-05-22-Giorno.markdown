@@ -2,7 +2,7 @@
 layout: post
 comments: true
 author: federicopaganelli
-title:  "Giorno"
+title:  "Giorno VI"
 date:   2017-05-22 13:45:31
 categories: aggiornamenti
 ---
