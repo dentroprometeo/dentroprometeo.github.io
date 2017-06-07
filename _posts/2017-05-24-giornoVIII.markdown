@@ -29,5 +29,7 @@ In serata avverrà la pre-generale con una lezione alle 20.00 dove verranno util
 
 Prometeo, Tragedia dell’ascolto [Making of]
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/L4G_YbusmXc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
 <a href="https://www.youtube.com/watch?v=L4G_YbusmXc&feature=youtu.be" target="_blank"><img src="https://www.youtube.com/watch?v=L4G_YbusmXc&feature=youtu.be"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
